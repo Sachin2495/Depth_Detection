@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./hybrid-depth-estimation/models/MiDaS",
+        "./hybrid-depth-estimation/models/AdaBins"
+    ]
+}
